@@ -13,3 +13,4 @@ members:
 - Kim
 
 signed : no2
+cli: test
